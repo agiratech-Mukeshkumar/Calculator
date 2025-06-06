@@ -1,0 +1,39 @@
+#heading{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:aliceblue;
+}
+
+#calculator{
+    text-align: center;
+    font-size:large;
+    background-color: white;
+    border: solid 2px black; 
+    border-radius: 10px;
+    margin-left: 750px;
+    margin-right: 750px;
+    margin-top: 20px;
+    padding:20px;
+}
+
+#display{
+    height:50px;
+    width: 250px;
+    border: solid black 2px;
+    text-decoration: solid;
+    font-size: large;
+}
+
+Button{
+    height:40px;
+    width: 61px;
+    border: solid black 2px;
+    text-decoration: solid;
+
+}
+#clear{
+    width:260px
+
+}
